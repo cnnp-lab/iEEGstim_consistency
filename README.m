@@ -1,3 +1,6 @@
+% source code for the publication:
+% Papasavvas et al 2020 J. Neural Eng. https://doi.org/10.1088/1741-2552/abbecf
+
 % The published analysis code starts from the data file resPerSessD.mat
 % This data file is produced right after the processing of the raw data.
 % The two main components in this file: a cell array for the band powers and
